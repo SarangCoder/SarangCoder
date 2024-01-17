@@ -3,6 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from Nepal</h3>
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarangcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sarangcoder" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SarangCoder](https://github.com/SarangCoder)
@@ -25,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangcoder&show_icons=true&locale=en&layout=compact" alt="sarangcoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangcoder&show_icons=true&locale=en" alt="sarangcoder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangcoder&" alt="sarangcoder" /></p>
