@@ -1,3 +1,4 @@
+![logo](https://github.com/SarangCoder/SarangCoder/blob/main/gitBanner.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Ramrudri</h1>
 <h3 align="center">A passionate MERN Stack developer from Nepal</h3>
 <img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
